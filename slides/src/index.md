@@ -6,25 +6,46 @@ By Lu-Chin
 
 ---
 
-- Introduction [➡️](/introduction.md#/)
+![start fp](./images/start-fp.png)
 
-- How to parse unreliable data? [➡️](/how-to-parse-unreliable-data.md#/)
+---
 
-- How to handle async side effect ? ➡️
-  <!-- axios request, connect db -->
-- How to decouple backing services ? ➡️
-  <!-- - 建立防腐層 -->
+![OO vs FP](./images/oo-vs-fp.png)
 
-- How to inject dependency ? ➡️
+---
 
-- Summary ➡️
-  <!-- - 每個 function 都要包語言好煩
-  - 要加入時區怎麼辦 ? -->
+![elegant](./images/elegant.png)
 
-<!-- - How to inject dependency while handling async side effect ? -->
-  <!-- - traverse
-  - transform
-  - -->
+---
 
-  <!-- 常見的盒子分類 -->
-  <!-- 組合 function 的方法 -->
+![try](./images/try.png)
+
+---
+
+![fp-doc](./images/fp-doc.png)
+
+---
+
+![jackie](./images/jackie.png)
+
+HKT? Kind ? Functor? Lazy?
+
+---
+
+![confused](./images/confused.png)
+
+Monad? Monoid?
+
+Homomorphism? Catamorphism? Isomorphism?
+
+---
+
+![feel](./images/feel.png)
+
+---
+
+<br/>
+
+![mind blown](./images/mind-blow-galaxy.gif)
+
+I sincerely hope that one day you can feel ...
