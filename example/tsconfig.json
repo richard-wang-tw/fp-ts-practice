@@ -1,5 +1,5 @@
 {
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "src/ch6.2-reader-optionts"],
   "exclude": [],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */

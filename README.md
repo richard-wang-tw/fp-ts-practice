@@ -22,5 +22,3 @@ cd example
 npm i
 npx ts-node .\src\<example>.ts
 ```
-
-If all assertions are passed, there will be no output after the execution
