@@ -52,6 +52,10 @@ const readerOptionExample = pipe(
   )
 )
 
+// 😈 對照文件 OptionT - pattern matching - chain<M extends URIS2>
+// 請找出在 RO.chain(play)
+// 裡面的 M, A, E, B, f, ma
+
 /* ⭐ 課後練習
  *
  * - 如何使用 OptionT ?
